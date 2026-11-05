@@ -2,7 +2,7 @@
 
 ## Frontend setup
 
-This is a Vite + React frontend that preserves the original HTML dashboard
+This is a Vite React frontend that preserves the original HTML dashboard
 layout and connects it to the existing FastAPI service.
 
 ```sh
